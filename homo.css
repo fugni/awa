@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+
+#a {
+    background-color: #F94144;
+    height: 10vh;
+}
+
+#b {
+    background-color: #F3722C;
+    height: 10vh;
+}
+
+#c {
+    background-color: #F8961E;
+    height: 10vh;
+}
+
+#d {
+    background-color: #F9844A;
+    height: 10vh;
+}
+
+#e {
+    background-color: #F9C74F;
+    height: 10vh;
+}
+
+#f {
+    background-color: #90BE6D;
+    height: 10vh;
+}
+
+#g {
+    background-color: #43AA8B;
+    height: 10vh;
+}
+
+#h {
+    background-color: #4D908E;
+    height: 10vh;
+}
+
+#i {
+    background-color: #577590;
+    height: 10vh;
+}
+
+#j {
+    background-color: #277DA1;
+    height: 10vh;
+}
