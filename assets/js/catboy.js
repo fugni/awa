@@ -1,5 +1,6 @@
 function catboy() {
-    const catboy = document.getElementById("catboy");
+    const newsrc = doc;
+    const catboy = document.getElementById("catboy").src="";
 
-    catboy.appendChild(url);
+    catboy.appendChild(newsrc);
 }
