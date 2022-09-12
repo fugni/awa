@@ -1,5 +1,5 @@
-function test() {
-    console.log(catboy.img());
-}
+function catboy() {
+    const catboy = document.getElementById("catboy");
 
-test();
+    catboy.appendChild(url);
+}
