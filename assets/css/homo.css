@@ -2,9 +2,14 @@ body {
     margin: 0;
 }
 
-.bar {
-    height: 10vh;
+.flex-container {
+    display: flex;
+    flex-direction: column;
 }
+
+.flex-container > .bar {
+    height: 10vh;
+  }
 
 #a {background-color: #F94144;}
 #b {background-color: #F3722C;}
